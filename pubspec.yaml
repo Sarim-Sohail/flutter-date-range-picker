@@ -18,7 +18,7 @@ dependencies:
 
   pattern_formatter: 2.0.0
 
-  flutter_svg: 2.0.2
+  flutter_svg: 2.0.4
 
   debounce_throttle: 2.0.0
 
