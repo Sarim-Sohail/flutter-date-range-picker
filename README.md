@@ -1,5 +1,7 @@
 # Flutter Date Range Picker
 
+This was forked solely to change one dependency to a previous version in order to avoid a dependency errors in another project.
+
 A Flutter package for all platform which provides a custom date picker
 
 ![image](https://user-images.githubusercontent.com/80730648/194060809-54d34d17-3a1b-48cd-8b1b-6703ff99dd4c.gif)
